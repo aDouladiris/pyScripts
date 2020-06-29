@@ -2,8 +2,8 @@ import tweepy
 
 #api keys for twitter developer api. After grades publication, i will delete them from my twitter developer account
 #that i created only for this task
-consumer_key = 'ZjTA7SQ6an5GjCuLxCcWLlIn3'
-consumer_secret = 'odUc50rkvJfUrbtBRIzFKj7AHPrZHcnyUc1aNfC6qn2TTlJL9N'
+consumer_key = ''
+consumer_secret = ''
 
 # We are using OAuth 2 Authentication method because we need read-only access to public information
 # Create an auth instance with consumer_key and consumer_secret
