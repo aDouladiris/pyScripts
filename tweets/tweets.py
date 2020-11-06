@@ -1,7 +1,5 @@
 import tweepy
 
-#api keys for twitter developer api. After grades publication, i will delete them from my twitter developer account
-#that i created only for this task
 consumer_key = ''
 consumer_secret = ''
 
